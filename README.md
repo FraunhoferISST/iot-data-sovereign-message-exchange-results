@@ -1,7 +1,7 @@
-<h2 align="center">IoT Data Sovereign Message Exchange Results</h2>
+<h2 align="center">Sovereign Data Exchange in Cloud-Connected IoT using International Data Spaces</h2>
 
 <div align="center">
-    Experiment results from a data sovereign message exchange in an IoT use case.
+    Raw experiment results from a data sovereign message exchange in an IoT use case.
 </div>
 
 
@@ -9,6 +9,7 @@
 ## Table of Contents
 
 - [About](#about)
+- [Cite this work](#cite-this-work)
 - [Structure](#structure)
   - [Folder Structure](#folder-structure)
   - [File Structure](#file-structure)
@@ -16,6 +17,21 @@
 - [Contact](#contact)
 
 
+    
+## Cite This Work
+    
+If use this work, please cite our [paper](https://ieeexplore.ieee.org/document/9659028)
+   
+```
+@inproceedings{qarawlus2021sovereign,
+  title={Sovereign Data Exchange in Cloud-Connected IoT using International Data Spaces},
+  author={Qarawlus, Haydar and Hellmeier, Malte and Pieperbeck, Johannes and Quensel, Ronja and Biehs, Steffen and Peschke, Marc},
+  booktitle={2021 IEEE Cloud Summit (Cloud Summit)},
+  pages={13--18},
+  year={2021},
+  organization={IEEE}
+}
+```
 
 ## About
 
